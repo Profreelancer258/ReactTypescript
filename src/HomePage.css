@@ -1,0 +1,7 @@
+/* src/HomePage.css */
+
+.service-list,
+.contact-list {
+  list-style-type: none; /* Remove list bullets */
+  padding: 0;
+}
