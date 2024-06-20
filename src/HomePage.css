@@ -1,7 +1,32 @@
-/* src/HomePage.css */
+.home {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
 
-.service-list,
-.contact-list {
-  list-style-type: none; /* Remove list bullets */
+.services {
+  margin-bottom: 20px;
+}
+
+.services ul {
+  list-style-type: none;
   padding: 0;
+}
+
+.contact {
+  margin-bottom: 20px;
+}
+
+.enquiry-button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.enquiry-button:hover {
+  background-color: #0056b3;
 }
