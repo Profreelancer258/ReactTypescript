@@ -1,6 +1,6 @@
 import React from 'react';
 import image1 from '../assets/content creator.jpg'; // Import your images
-import image2 from '../assets/image2.jpg';
+import image2 from '../assets/istockphoto-1373155288-612x612.jpg';
 
 const Home: React.FC = () => {
   return (
