@@ -7,7 +7,15 @@ import HomePage from './HomePage';
 function App() {
   return (
     <div className="App">
-      <HomePage />
+      <header>
+        {/* Add your header content here */}
+      </header>
+      <main>
+        <HomePage />
+      </main>
+      <footer>
+        {/* Add your footer content here */}
+      </footer>
     </div>
   );
 }
