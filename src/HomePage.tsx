@@ -34,8 +34,8 @@ const Home: React.FC = () => {
       <section className="gallery">
         <h2>Portfolio Gallery</h2>
         <div className="image-container">
-          <img src={image1} alt="Portfolio Image 1" />
-          <img src={image2} alt="Portfolio Image 2" />
+          <img src={image1} alt="Content Creation Image Background" />
+          <img src={image2} alt="Virtual Assistant Backgroung Image" />
           {/* Add more images as needed */}
         </div>
       </section>
