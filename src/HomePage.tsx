@@ -1,6 +1,6 @@
 import React from 'react';
 import image1 from './content creator.jpg';  // Adjust the path relative to src/
-import image2 from '../istockphoto-1373155288-612x612.jpg';
+import image2 from './istockphoto-1373155288-612x612.jpg';
 
 const Home: React.FC = () => {
   return (
