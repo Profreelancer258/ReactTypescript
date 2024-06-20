@@ -13,8 +13,30 @@
   padding: 0;
 }
 
+.about {
+  margin-bottom: 20px;
+}
+
 .contact {
   margin-bottom: 20px;
+}
+
+.gallery {
+  margin-bottom: 20px;
+}
+
+.image-container {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-container img {
+  width: 300px; /* Adjust size as needed */
+  height: 200px;
+  object-fit: cover;
+  border-radius: 5px;
 }
 
 .enquiry-button {
