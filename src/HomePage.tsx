@@ -1,5 +1,5 @@
 import React from 'react';
-import image1 from '../assets/image1.jpg'; // Import your images
+import image1 from '../assets/content creator.jpg'; // Import your images
 import image2 from '../assets/image2.jpg';
 
 const Home: React.FC = () => {
